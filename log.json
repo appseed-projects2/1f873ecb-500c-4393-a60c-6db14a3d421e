@@ -1,0 +1,23 @@
+{
+    "backend": "api-server-django",
+    "db_name": "",
+    "db_pass": "",
+    "db_type": "sqlite",
+    "db_user": "",
+    "dbms": "1",
+    "description": "generated product",
+    "design": "berry-dashboard",
+    "docker": "0",
+    "err_code": 0,
+    "frontend": "react",
+    "heroku": "0",
+    "pattern": "fullstack",
+    "pro": "0",
+    "task_id": "1f873ecb-500c-4393-a60c-6db14a3d421e",
+    "task_info": "Upload Sources [0%] - 171 files",
+    "task_output": "1f873ecb-500c-4393-a60c-6db14a3d421e.zip",
+    "task_result": "SUCCESS",
+    "task_state": "RUNNING",
+    "task_ts_end": "2025-02-23-16-51-06",
+    "task_ts_start": "2025-02-23-16-51-05"
+}
